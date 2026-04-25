@@ -1,0 +1,16 @@
+control_id,business_unit,control_name,control_type,risk_dimension,last_assessed,assessment_score,frequency_of_failure,regulatory_impact,operational_impact,is_automated
+CTL-001,Payments,Access Control Review,Preventive,Cybersecurity,2024-01-10,55,3,High,High,0
+CTL-002,Credit Risk,Loan Approval Workflow,Detective,Credit Risk,2024-01-15,72,1,Medium,High,1
+CTL-003,Compliance,AML Transaction Monitoring,Preventive,Financial Crime,2024-01-18,88,0,High,High,1
+CTL-004,Operations,Reconciliation Process,Detective,Operational Risk,2024-01-20,45,5,Medium,Medium,0
+CTL-005,HR,Employee Background Check,Preventive,People Risk,2024-01-22,91,0,Low,Low,1
+CTL-006,IT,Disaster Recovery Testing,Corrective,Technology Risk,2024-01-25,60,2,High,High,0
+CTL-007,Payments,Payment Screening,Preventive,Financial Crime,2024-01-28,78,1,High,High,1
+CTL-008,Credit Risk,Collateral Valuation,Detective,Credit Risk,2024-02-01,50,4,High,Medium,0
+CTL-009,Compliance,Regulatory Reporting,Preventive,Compliance Risk,2024-02-05,65,2,High,High,0
+CTL-010,Operations,Data Quality Validation,Detective,Data Risk,2024-02-08,83,0,Medium,Medium,1
+CTL-011,IT,Patch Management,Preventive,Cybersecurity,2024-02-10,40,6,High,High,0
+CTL-012,HR,Access Revocation on Exit,Preventive,Cybersecurity,2024-02-12,70,2,Medium,Medium,0
+CTL-013,Payments,Fraud Detection Rules,Detective,Financial Crime,2024-02-15,85,1,High,High,1
+CTL-014,Credit Risk,Credit Limit Review,Preventive,Credit Risk,2024-02-18,55,3,Medium,High,0
+CTL-015,Compliance,Sanctions Screening,Preventive,Financial Crime,2024-02-20,92,0,High,High,1
